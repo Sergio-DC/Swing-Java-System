@@ -1,0 +1,9 @@
+1234_Sergio_Credito_3450
+7543_Gabriel_Credito_6000
+9876_Carlos_Hipoteca_5000
+9543_Francisco_Hipoteca_4500
+3456_Gerardo_Credito_3800
+7654_Pablo_Hipoteca_4600
+5678_Gustavo_Credito_5674
+12345_Gabriel_Hipoteca_40000
+12346_Gerardo_Hipoteca_40000
