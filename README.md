@@ -12,11 +12,15 @@ It is suggested to create a binary folder at the same level of src/ and execute 
 (Be sure to place inside Project directoy):
 
 > Windows
+
 `javac -d .\bin *.java`
+
 `java -cp .\bin ProyectoGUI`
 
 > Linux
+
 `javac -d ./bin *.java`
+
 `java -cp ./bin ProyectoGUI`
   
 ## Add new songs to the Database
